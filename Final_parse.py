@@ -58,11 +58,11 @@ else:
 
 ############################ Email variables ######################################
 
-emailfrom  = "tanmayeemete3@gmail.com"#"promotestdata@gmail.com"                          #Senders email addr
+emailfrom  = "tanmayeemete@gmail.com"#"promotestdata@gmail.com"                          #Senders email addr
 emailto    = "vikas.gaikwad@promethean-power.com"                       #Receivers email addr
 fileToSend =  Date+".csv"                                       #26-Jun-2017.csv"
-username   = "tanmayeemete3@gmail.com"
-password   = "Tanmayee3021Rokadoba1511"
+username   = "**********************"
+password   = "*******************"
 
 ############################ Calling URL for getting soap response ################
 
