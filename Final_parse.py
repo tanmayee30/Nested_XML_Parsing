@@ -58,7 +58,7 @@ else:
 
 ############################ Email variables ######################################
 
-emailfrom  = "tanmayeemete@gmail.com"#"promotestdata@gmail.com"                          #Senders email addr
+emailfrom  = "promotestdata@gmail.com"                          #Senders email addr
 emailto    = "vikas.gaikwad@promethean-power.com"                       #Receivers email addr
 fileToSend =  Date+".csv"                                       #26-Jun-2017.csv"
 username   = "**********************"
