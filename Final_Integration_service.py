@@ -48,11 +48,11 @@ q = str(two_min_ago)
 start = q[11:16]
 ############################ Email variables ######################################
 
-emailfrom  = "promotheandata@gmail.com"                          #Senders email addr
-#emailto    = "tanmayee@promethean-power.com"                    #Receivers email addr
+emailfrom  = "email-id"                                         #Senders email addr
+#emailto    = "email-id"                                        #Receivers email addr
 fileToSend =  Date+".csv"                                       #26-Jun-2017.csv"
-username   = "promotheandata@gmail.com"
-password   = "tanmayee3021"
+username   = "username"
+password   = "password"
 
 ############################ Calling URL for getting soap response ################
 
