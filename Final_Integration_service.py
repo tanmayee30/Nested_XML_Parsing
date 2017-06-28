@@ -21,11 +21,7 @@ from email.mime.base import MIMEBase
 from email.mime.image import MIMEImage
 from email.mime.text import MIMEText
 
-recepients = ['tanmayee@promethean-power.com',
-              'manouj@promethean-power.com',
-              'bhavin@promethean-power.com',
-              'vikas.gaikwad@promethean-power.com',
-              'jofi@promethean-power.com']
+recepients = ['enter email ids of recipient']
 
 ############################ Date and Time #######################################
 
